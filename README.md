@@ -29,7 +29,7 @@
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 
 </table>
-<div><b>Care taker - Madhu T, Bhadravathi, Mobile-8105349652</b></div>
+<h2>Care taker - Madhu T, Bhadravathi, Mobile-8105349652</h2>
 </body>
 
 </html>
